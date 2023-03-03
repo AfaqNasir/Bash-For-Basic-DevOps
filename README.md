@@ -1,7 +1,9 @@
 # Bash For DevOps
 
 ////////////////////////////////////////////////////////////////////////////
+
 ## Ubuntu_BasicToolsSetup.sh
+
 ### These scripts is to setup basic Tools in Ubuntu for DevOps in one click.
 
 1 # Install Tweaks
@@ -36,10 +38,13 @@
 
 3 # install docker
 
-4 # start docker service
+4 # install docker compose
 
-5 # enable the docker service to continue the docker
+5 # start docker service
 
-6 # check the docker version
+6 # enable the docker service to continue the docker
+
+7 # check the docker version
 
 ////////////////////////////////////////////////////////////////////////////
+
