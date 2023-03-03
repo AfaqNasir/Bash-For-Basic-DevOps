@@ -10,6 +10,8 @@ sudo apt-get upgrade
 
 # install docker
 sudo apt install docker.io -y
+sudo apt install docker-compose -y
+
 
 # start docker service
 systemctl start docker
